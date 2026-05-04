@@ -23,3 +23,12 @@ Instale o Python 3
 Abra o terminal na pasta do projeto
 Execute o comando:
 python main.py
+
+## Exemplo de uso
+
+Ao executar o sistema, o menu será exibido:
+
+1 - Cadastrar brinde
+2 - Listar brindes
+3 - Buscar brinde
+4 - Sair
